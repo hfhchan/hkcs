@@ -53,3 +53,6 @@ modern and historical Chinese character glyphs in the Ming typeface.
   The glyphs are created on GlyphWiki, an online platform for drawing glyphs and outputting
   fonts. Thanks to SyaoranHinata, Ext C, Zonz, Gienwen CHAU and others for their suppport
   to the orthography standardization, character etymology and review work.
+
+# Changelog
+  http://en.glyphwiki.org/wiki/Special:Recentchanges?user=hkcs
